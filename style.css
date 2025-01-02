@@ -1,0 +1,73 @@
+#mainBlock{
+    width: 500px;
+    height: 2000px;
+    margin-left: 50%;
+}
+
+body{
+    background-color: rgb(244, 185, 252);
+    
+}
+
+
+#head{
+    background-color: white;
+    height: 200px;
+    border-radius: 20px;
+    display: flex;
+    width: 100%;
+    
+}
+
+.headText{
+    width: 200px;
+    margin-left: 20px;
+    margin-top: 30px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#logo{
+    width: 150px;
+    height: 150px;
+    margin-top: 25px;
+    margin-left: 47%;
+   
+}
+
+.icons{
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-top: 25px;
+}
+
+.modNames{
+    margin-top: 65px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 150px;
+}
+
+.dowBut{
+    width: 100px;
+    height: 50px;
+    margin-top: 50px;
+    margin-left: 30px;
+    background-color: rgb(157, 255, 148);
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border-radius: 20px;
+}
+
+
+.Blocks{
+    width: 500px;
+    height: 150px;
+    background-color: white;
+    border-radius: 20px;
+    display: flex; 
+    margin-top: 20px;  
+}
